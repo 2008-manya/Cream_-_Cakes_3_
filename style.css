@@ -1,14 +1,9 @@
 body {
     margin: 0;
     padding-top: 800px;
-
-
-    background-image: url("Bakery-Google-Search.png"), url("Bakery-Google-Search.png");
-    background-color: aqua;
-
-
+    background: linear-gradient(#33F6FF 0%, #F933FF 100%);
     font-size: 30px;
-    color:black;
+    color: black;
     text-align: center;
     font-family: 'Atma',
         cursive;
